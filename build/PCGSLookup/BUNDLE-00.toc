@@ -1,0 +1,3 @@
+([('PCGSLookup',
+   '/Users/josephjohnson/Documents/_winter2024_cursor/pcgsLookup/dist/PCGSLookup',
+   'EXECUTABLE')],)
